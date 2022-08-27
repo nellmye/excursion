@@ -18,3 +18,19 @@ a {
     color: aquamarine;
     text-align: center;
 }
+
+h2{
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+p{
+    font-size: 1.3125rem;
+    color: gray;
+
+}
+
+.copyright{
+    text-align: right;
+    
+}
